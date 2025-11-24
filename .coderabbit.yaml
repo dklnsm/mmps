@@ -1,0 +1,9 @@
+version: 1
+reviewers:
+  enable: true
+  auto_review: true
+  review_on:
+    - pull_request
+rules:
+  max_review_comments: 20
+  enable_suggestions: true
